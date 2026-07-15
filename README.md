@@ -88,9 +88,8 @@ streamlit run app.py
 
 ## 📸 Output Screenshot
 
-```markdown
+markdown
 ![Chatbot Interface](assets/interface.png)
-```
 
 ## 🎯 Learning Outcomes
 
